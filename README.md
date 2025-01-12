@@ -1,2 +1,3 @@
 # radno_okruzenje
 test_push_oblak
+test_push_credentials.saved
