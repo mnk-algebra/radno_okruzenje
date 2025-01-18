@@ -4,3 +4,4 @@
 - GIT_fetch_test1
 - dodana linija za konflikt
 - git branch test
+- git remote add origin mnk-algebra@github.com/radno_okruzenje.git
